@@ -1,0 +1,15 @@
+{
+  "default_mode": "director",
+  "default_duration_seconds": 30,
+  "default_aspect_ratio": "16:9",
+  "default_language": "zh-CN",
+  "default_video_model": "auto",
+  "default_story_mode": "auto",
+  "core_selling_points_max": 1,
+  "auxiliary_selling_points_max": 1,
+  "require_product_causality": true,
+  "require_twist_foreshadowing": true,
+  "lock_product_identity_when_image_present": true,
+  "avoid_cultural_stereotypes": true,
+  "deterministic_text_overlay_for_precise_copy": true
+}

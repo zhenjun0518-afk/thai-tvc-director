@@ -1,0 +1,11 @@
+{
+  "shots": [
+    {"shot_id":"S01","start":0,"end":3,"story_function":"hook","action":"全员突然趴下，主角僵住","product_state":"未开封瓶在主角右手","continuity_notes":"办公室白天，主角蓝衬衫"},
+    {"shot_id":"S02","start":3,"end":7,"story_function":"setup","action":"同事惊慌看向主角","product_state":"瓶仍在右手","continuity_notes":"保持同一会议室与服装"},
+    {"shot_id":"S03","start":7,"end":12,"story_function":"escalation","action":"主角严肃示意所有人保持安静","product_state":"瓶贴近胸口","continuity_notes":"主角努力憋住打嗝"},
+    {"shot_id":"S04","start":12,"end":17,"story_function":"misdirection","action":"老板也蹲下小声询问","product_state":"瓶标签朝镜头部分可见","continuity_notes":"同一空间"},
+    {"shot_id":"S05","start":17,"end":22,"story_function":"peak","action":"主角脸憋红，所有人屏息","product_state":"瓶身有冷凝","continuity_notes":"声音暂时抽空"},
+    {"shot_id":"S06","start":22,"end":26,"story_function":"twist","action":"主角打出巨大响嗝","product_state":"瓶仍在手","continuity_notes":"同事先沉默后爆笑"},
+    {"shot_id":"S07","start":26,"end":30,"story_function":"packshot","action":"产品稳定特写，冷凝水滑落","product_state":"完整产品正面","continuity_notes":"干净背景，品牌文字后期确定性叠加"}
+  ]
+}
