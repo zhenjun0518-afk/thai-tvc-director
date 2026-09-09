@@ -1,0 +1,4 @@
+interface:
+  display_name: "Geographic Documentary Master Photography"
+  short_description: "生成世界级地理纪实、自然、野生动物与人文摄影提示词"
+  default_prompt: "使用 $geographic-documentary-master-photography，把我输入的主题转译为世界级地理纪实摄影提示词；保持强烈地方感、真实自然光、摄影叙事与空间层次。"
